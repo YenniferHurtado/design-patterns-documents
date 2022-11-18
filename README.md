@@ -1,2 +1,2 @@
 # design-patterns-documents
- [UML](https://github.com/YenniferHurtado/design-patterns-documents/issues/1#issue-1455452401)
+![UML - Lenguaje Unificado de Modelo](https://user-images.githubusercontent.com/44207529/202757638-1fa49404-040c-4d14-ae17-7836f42c3416.jpg)
